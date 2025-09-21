@@ -1,8 +1,8 @@
 FROM node:alpine
 
 LABEL version="1.0"
-LABEL description="Code Editor."
-LABEL maintainer=["mohitur669@gmail.com"]
+LABEL description="Code Collab"
+LABEL maintainer=["sonalsingh3214@gmail.com"]
 
 WORKDIR /app
 
