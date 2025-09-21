@@ -7,12 +7,19 @@ Tired of sending code snippets back and forth and struggling to collaborate with
 ## Features
 
 -Real-time collaborative editing for multiple users in a room
+
 -Changes instantly reflected for all users
+
 -Copy button to copy the room ID to clipboard
+
 Leave button to exit a room
+
 -Syntax highlighting for multiple programming languages
+
 -Multiple themes for user preference
+
 -Rejoin rooms to continue editing later
+
 -User join/leave events reflected in real-time
 
 ## Tech Stack
